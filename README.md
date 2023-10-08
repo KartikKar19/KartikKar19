@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development related projects**
 
-- 🤝 I’m looking for help with **Web Dev related and UI/UX and Figma related free resources like free components or sliders,carousels for websites**
+- 🤝 I’m looking for help with **Web Dev-related and UI/UX and Figma-related free resources like free components or sliders, carousels for websites**
 
 - 💬 Ask me about **C/C++ | MySql | Python | CSS | AZURE | HTML | JAVA**
 
