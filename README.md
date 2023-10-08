@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I'm currently working on cloud and web development.<br>🌱 I'm currently learning Javascript | AWS | AZURE | UX/UI Design | DSA<br>👯 I'm looking to collaborate on Web Development related projects<br>💬 Ask me about  C/C++ | MySql | Python | CSS | AZURE | HTML | JAVA <br>📫 How to reach me: kartikkar192004@gmail.com<br>⚡ Fun Fact: When you can't find me anywhere I might have hacked your life.
+🔭 I'm currently working on cloud and web development and have completed all the basics of front-end development.<br>🌱 I'm currently learning NodeJS | AWS | AZURE | UX/UI Design | DSA<br>👯 I'm looking to collaborate on Web Development related projects<br>💬 Ask me about  C/C++ | MySql | Python | CSS | AZURE | HTML | JAVA <br>📫 How to reach me: kartikkar192004@gmail.com<br>⚡ Fun Fact: When you can't find me anywhere I might have hacked your life.
 
 
 ## 🌐 Socials:
