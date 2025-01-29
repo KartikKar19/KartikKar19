@@ -2,7 +2,7 @@
 I’m currently working on cloud and web development and have completed all the basics of front-end development.<br> I’m currently learning AWS | AZURE | UX/UI Design | DSA | SalesForce.<br>I’m looking to collaborate on Web Development related projects<br>I’m looking for help with Web Dev-related and UI/UX and Figma-related free resources like free components or sliders, carousels for websites<br>Ask me about C/C++ | MySql | Python | CSS | AZURE | HTML | JAVA | POSTGRESQL | NodeJS | NodeJS <br>Fun fact When you can't find me anywhere I might be sleeping after having a 48 hour hackathon.
 
 
-## 🌐 Socials:
+## 🌐  Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kartik_kar_19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-kar/) 
 
 # 💻 Tech Stack:
