@@ -1,5 +1,5 @@
 # 💫 About Me:     
-I’m currently working on cloud and web development and have completed all the basics of front-end development.<br> I’m currently learning AWS | AZURE | UX/UI Design | DSA | SalesForce.<br>I’m looking to collaborate on Web Development related projects<br>I’m looking for help with Web Dev-related and UI/UX and Figma-related free resources like free components or sliders, carousels for websites<br>Ask me about C/C++ | MySql | Python | CSS | AZURE | HTML | JAVA | POSTGRESQL | NodeJS | NextJS <br> Fun fact When you can't find me anywhere I might be sleeping after having a 48 hour hackathon.
+I’m currently working on cloud and web development and have completed all the basics of front-end development.<br> I’m currently learning AWS | AZURE | UX/UI Design | DSA | SalesForce.<br>I’m looking to collaborate on Web Development related projects<br>I’m looking for help with Web Dev-related and UI/UX and Figma-related free resources like free components or sliders, carousels for websites<br>Ask me about C/C++ | MySql | Python | CSS | AZURE | HTML | JAVA | POSTGRESQL | NodeJS | NextJS | Tailwind CSS | React Bits | Framer Motion | gSAP | ogl <br> Fun fact When you can't find me anywhere I might be sleeping after having a 48 hour hackathon.
  
   
 ## 🌐  Socials:
